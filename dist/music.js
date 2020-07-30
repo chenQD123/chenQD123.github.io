@@ -15,7 +15,7 @@ const ap = new APlayer({
         {
             name: '倾城', //音频名称
             artist: '陳奕迅', //音频艺术家
-            url: 'http://m10.music.126.net/20200729151611/ab805d6781c7b669128cf7783d8438e9/ymusic/a158/036f/7274/427fef3e26d6fe0adaff9e86ee3760b4.mp3', //音频外链
+            url: 'http://music.163.com/song/media/outer/url?id=27867449.mp3', //音频外链
             cover: 'https://p2.music.126.net/eVNxevw1W5lyBmdq18tMJw==/109951163639097093.jpg?param=90y90', //音频封面
             lrc: '/dist/lrc1.lrc', //音频歌词，配合上面的lrcType使用
             theme: '#ebd0c2' //切换到此音频时的主题色，比上面的 theme 优先级高
@@ -23,7 +23,7 @@ const ap = new APlayer({
         {
             name: '明年今日', //如果只有一首歌，删掉这一块，如有更多歌曲按此格式逐渐往下添加
             artist: '陳奕迅',
-            url: 'http://m10.music.126.net/20200729155105/41975e5a1dfb1cb49d2cab291afcd45f/ymusic/1335/00d5/bae4/86158572e866fc14498147414037ad27.mp3',
+            url: 'http://music.163.com/song/media/outer/url?id=64599.mp3',
             cover: 'https://p1.music.126.net/LE6HV_Y5-HXFfdXKGhJ94Q==/109951163104933982.jpg?param=130y130',
             lrc: '/dist/lrc2.lrc',
             theme: '#46718b'
@@ -31,7 +31,7 @@ const ap = new APlayer({
         {
             name: '好歌献给你', //如果只有一首歌，删掉这一块，如有更多歌曲按此格式逐渐往下添加
             artist: '陳奕迅',
-            url: 'http://m10.music.126.net/20200729164115/e6aa52205e79a516f8212a502954c2ad/ymusic/de76/1105/0149/06479045fcc367df43e85a169f042762.mp3',
+            url: 'http://music.163.com/song/media/outer/url?id=64425.mp3',
             cover: 'https://p1.music.126.net/7dbK-A_In2Wol92TDMYIGw==/6636652185368776.jpg?param=130y130',
             lrc: '/dist/lrc3.lrc',
             theme: '#46718b'
