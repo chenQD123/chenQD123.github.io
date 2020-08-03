@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈全蛋</title>
+  <icon>https://www.chenqd.top/icon.png</icon>
+  <subtitle>记录自己的成长</subtitle>
+  <link href="/source/_posts/atom.xml" rel="self"/>
+  
+  <link href="https://www.chenqd.top/"/>
+  <updated>2020-07-29T09:32:00.513Z</updated>
+  <id>https://www.chenqd.top/</id>
+  
+  <author>
+    <name>chenQD</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>模拟B,S服务器</title>
+    <link href="https://www.chenqd.top/2020/07/28/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://www.chenqd.top/2020/07/28/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <published>2020-07-28T15:04:30.900Z</published>
+    <updated>2020-07-29T09:32:00.513Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近学到了网络编程，有个练习：&lt;br&gt;&lt;strong&gt;模拟B\S服务器 模拟网站服务器，使用浏览器访问自己编写的服务端程序，查看网页效果。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;踩了两个坑&lt;/strong&gt;，就是：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://www.chenqd.top/categories/Java/"/>
+    
+    
+      <category term="TCP" scheme="https://www.chenqd.top/tags/TCP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IO流为什么要边读编写</title>
+    <link href="https://www.chenqd.top/2020/07/28/IO%E6%B5%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BE%B9%E8%AF%BB%E7%BC%96%E5%86%99/"/>
+    <id>https://www.chenqd.top/2020/07/28/IO%E6%B5%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BE%B9%E8%AF%BB%E7%BC%96%E5%86%99/</id>
+    <published>2020-07-28T15:04:27.240Z</published>
+    <updated>2020-07-29T09:31:34.445Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本博客的内容包含了字节流，缓冲数组的概念。主要是研究&lt;font color=red&gt;&lt;strong&gt;为什么write(bytes)要放在read(bytes)的while循环里，及为啥要一边读，一遍写，而不是读完了（输入），再写（输出）。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://www.chenqd.top/categories/Java/"/>
+    
+    
+      <category term="IO" scheme="https://www.chenqd.top/tags/IO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown基础语法</title>
+    <link href="https://www.chenqd.top/2020/07/28/markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    <id>https://www.chenqd.top/2020/07/28/markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id>
+    <published>2020-07-28T15:04:16.920Z</published>
+    <updated>2020-07-29T09:31:46.504Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在养成写博客的习惯，现在很多的网站都支持Markdown，但是老忘记语法，所以记录一下基础语法。&lt;/p&gt;
+&lt;p&gt;先说下我感觉的Markdown的优点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;只用写一篇博客，就能复制粘贴到多个社区，大大&lt;strong&gt;节省了时间&lt;/strong&gt;。&lt;br&gt;以下都支持Markdown，是不是感觉很划算，😁！
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://www.chenqd.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Markdown" scheme="https://www.chenqd.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回顾迷茫的大一大二</title>
+    <link href="https://www.chenqd.top/2020/07/28/%E5%9B%9E%E9%A1%BE%E8%BF%B7%E8%8C%AB%E7%9A%84%E5%A4%A7%E4%B8%80%E5%A4%A7%E4%BA%8C/"/>
+    <id>https://www.chenqd.top/2020/07/28/%E5%9B%9E%E9%A1%BE%E8%BF%B7%E8%8C%AB%E7%9A%84%E5%A4%A7%E4%B8%80%E5%A4%A7%E4%BA%8C/</id>
+    <published>2020-07-28T15:04:10.143Z</published>
+    <updated>2020-07-29T09:31:54.138Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“下学期我一定好好学习”，到了大二上，这是我第三次对室友说了，不知道这句flag是不是全国统一。反正对我来说，这的确是一句flag。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="https://www.chenqd.top/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用Hexo+gitHub Pages生成一个静态网页</title>
+    <link href="https://www.chenqd.top/2020/07/22/%E7%94%A8Hexo-gitHub-Pages%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5/"/>
+    <id>https://www.chenqd.top/2020/07/22/%E7%94%A8Hexo-gitHub-Pages%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5/</id>
+    <published>2020-07-22T08:02:50.000Z</published>
+    <updated>2020-07-29T09:32:17.282Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;如何用Hexo-Github-Pages快速搭建自己的博客&quot;&gt;&lt;a href=&quot;#如何用Hexo-Github-Pages快速搭建自己的博客&quot; class=&quot;headerlink&quot; title=&quot;如何用Hexo+Github Pages快速搭建自己的博客&quot;&gt;&lt;/a&gt;如何用Hexo+Github Pages快速搭建自己的博客&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;保姆级教程&lt;/strong&gt;&lt;br&gt;本文章快速搭建博客，有一个前提，那就是对git有所了解，如果你对git的使用即原理很熟悉的话，那么这个博客搭建就会很快，不超过一个小时。当然你下载资源很慢，就当我没说，嘻嘻。当然如果你不了解，也没关系，凡事都是从0开始的，我也会在文中讲解的，废话少说，开始！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://www.chenqd.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.chenqd.top/tags/Hexo/"/>
+    
+      <category term="github" scheme="https://www.chenqd.top/tags/github/"/>
+    
+      <category term="git" scheme="https://www.chenqd.top/tags/git/"/>
+    
+      <category term="Github Pages" scheme="https://www.chenqd.top/tags/Github-Pages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本站第一篇博客</title>
+    <link href="https://www.chenqd.top/2020/07/22/hello-world/"/>
+    <id>https://www.chenqd.top/2020/07/22/hello-world/</id>
+    <published>2020-07-22T02:19:59.158Z</published>
+    <updated>2020-07-28T15:19:23.259Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#coding&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="https://www.chenqd.top/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+</feed>
