@@ -6,7 +6,7 @@
   <link href="/source/_posts/atom.xml" rel="self"/>
   
   <link href="https://www.chenqd.top/"/>
-  <updated>2020-07-29T09:32:00.513Z</updated>
+  <updated>2020-08-10T13:53:20.156Z</updated>
   <id>https://www.chenqd.top/</id>
   
   <author>
@@ -15,6 +15,168 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL基础</title>
+    <link href="https://www.chenqd.top/2020/08/10/MySQL%E5%9F%BA%E7%A1%80/"/>
+    <id>https://www.chenqd.top/2020/08/10/MySQL%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-08-10T13:51:05.220Z</published>
+    <updated>2020-08-10T13:53:20.156Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;MySQL&quot;&gt;&lt;a href=&quot;#MySQL&quot; class=&quot;headerlink&quot; title=&quot;MySQL&quot;&gt;&lt;/a&gt;MySQL&lt;/h1&gt;&lt;h4 id=&quot;SQL语法：&quot;&gt;&lt;a href=&quot;#SQL语法：&quot; class=&quot;headerlink&quot; title=&quot;SQL语法：&quot;&gt;&lt;/a&gt;SQL语法：&lt;/h4&gt;&lt;p&gt;通用语法：
+    
+    </summary>
+    
+    
+      <category term="SQL" scheme="https://www.chenqd.top/categories/SQL/"/>
+    
+    
+      <category term="MySql" scheme="https://www.chenqd.top/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>罗马数字转十进制的三种方法</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
+    <published>2020-08-10T13:51:05.176Z</published>
+    <updated>2020-08-10T13:58:38.924Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;题目要求&quot;&gt;&lt;a href=&quot;#题目要求&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Luhn算法实现信用卡号验证</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E4%BD%BF%E7%94%A8Luhn%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%B7%E9%AA%8C%E8%AF%81/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E4%BD%BF%E7%94%A8Luhn%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%B7%E9%AA%8C%E8%AF%81/</id>
+    <published>2020-08-10T13:51:05.131Z</published>
+    <updated>2020-08-10T13:59:12.602Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;问题描述：&quot;&gt;&lt;a href=&quot;#问题描述：&quot; class=&quot;headerlink&quot; title=&quot;问题描述：&quot;&gt;&lt;/a&gt;问题描述：&lt;/h2&gt;&lt;p&gt;2：信用卡号的验证 【信用卡号的验证】 当你输入信用卡号码的时候，有没有担心输错了而造成损失呢？其实可以不必这么
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java验证输入是否为三阶幻方</title>
+    <link href="https://www.chenqd.top/2020/08/10/java%E9%AA%8C%E8%AF%81%E8%BE%93%E5%85%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%89%E9%98%B6%E5%B9%BB%E6%96%B9/"/>
+    <id>https://www.chenqd.top/2020/08/10/java%E9%AA%8C%E8%AF%81%E8%BE%93%E5%85%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%89%E9%98%B6%E5%B9%BB%E6%96%B9/</id>
+    <published>2020-08-10T13:51:05.095Z</published>
+    <updated>2020-08-10T13:53:58.164Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题描述：&quot;&gt;&lt;a href=&quot;#问题描述：&quot; class=&quot;headerlink&quot; title=&quot;问题描述：&quot;&gt;&lt;/a&gt;问题描述：&lt;/h2&gt;&lt;p&gt;小明最近在教邻居家的小朋友小学奥数，而最近正好讲述到了三阶幻方这个部分
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="枚举法" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>看不懂辗转相除法求最小公约数？以身相许那种哦！</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/</id>
+    <published>2020-08-10T13:51:05.077Z</published>
+    <updated>2020-08-10T13:55:30.784Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;给你打个比喻吧：你英雄救美了，美女想要报答你，你想要1000块感谢费，但是美女却想要以身相许😁，懂了吧，同样都是报答，只是用了不一样的方式，辗转相除法也是这样，你两个数的最大公约数不容易求，我就用另外两个简单的数来解决。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全排列算法及解决数字搭积木问题</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/</id>
+    <published>2020-08-10T13:51:04.906Z</published>
+    <updated>2020-08-10T14:00:00.186Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如果你是做这道题不会，那么你可以看这道题的解题思路，如果你是不太理解全排列算法，那么你可以通过这个题来理解。&lt;/p&gt;
+&lt;h1 id=&quot;题目描述：&quot;&gt;&lt;a href=&quot;#题目描述：&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="递归" scheme="https://www.chenqd.top/tags/%E9%80%92%E5%BD%92/"/>
+    
+      <category term="全排列" scheme="https://www.chenqd.top/tags/%E5%85%A8%E6%8E%92%E5%88%97/"/>
+    
+  </entry>
   
   <entry>
     <title>模拟B,S服务器</title>
