@@ -6,7 +6,7 @@
   <link href="/source/_posts/atom.xml" rel="self"/>
   
   <link href="https://www.chenqd.top/"/>
-  <updated>2020-08-13T06:40:42.498Z</updated>
+  <updated>2020-08-17T07:02:06.539Z</updated>
   <id>https://www.chenqd.top/</id>
   
   <author>
@@ -15,6 +15,75 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>进制转换</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</id>
+    <published>2020-08-17T06:56:51.359Z</published>
+    <updated>2020-08-17T07:02:06.539Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目：&quot;&gt;&lt;a href=&quot;#题目：&quot; class=&quot;headerlink&quot; title=&quot;题目：&quot;&gt;&lt;/a&gt;题目：&lt;/h2&gt;&lt;p&gt;用天平称重时，我们希望用尽可能少的砝码组合称出尽可能多的重量。&lt;br&gt;        如果只有5个砝码，重量分别是1，3，9，27，81&lt;br&gt;        则它们可以组合称出1到121之间任意整数重量（砝码允许放在左右两个盘中）。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>指针到底是个什么鬼,怎么用</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E6%8C%87%E9%92%88%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E9%AC%BC,%E6%80%8E%E4%B9%88%E7%94%A8/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E6%8C%87%E9%92%88%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E9%AC%BC,%E6%80%8E%E4%B9%88%E7%94%A8/</id>
+    <published>2020-08-17T06:56:48.022Z</published>
+    <updated>2020-08-17T07:01:57.849Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;学数据结构时，创建链表，他定义了个二级指针，很懵逼，所以就有了这篇博客。指针的 * 有啥用?
+    
+    </summary>
+    
+    
+      <category term="C语言" scheme="https://www.chenqd.top/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="指针" scheme="https://www.chenqd.top/tags/%E6%8C%87%E9%92%88/"/>
+    
+      <category term="C语言" scheme="https://www.chenqd.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷歌使用</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E8%B0%B7%E6%AD%8C%E4%BD%BF%E7%94%A8/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E8%B0%B7%E6%AD%8C%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-08-17T06:56:44.588Z</published>
+    <updated>2020-08-17T06:59:22.200Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;谷歌——程序员必备工具。但是谷歌引擎被墙了，内地是用不了的。
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>组合算法</title>
