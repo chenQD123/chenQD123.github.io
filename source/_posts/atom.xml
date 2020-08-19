@@ -6,7 +6,7 @@
   <link href="/source/_posts/atom.xml" rel="self"/>
   
   <link href="https://www.chenqd.top/"/>
-  <updated>2020-08-17T11:40:28.564Z</updated>
+  <updated>2020-08-19T03:16:37.937Z</updated>
   <id>https://www.chenqd.top/</id>
   
   <author>
@@ -21,21 +21,21 @@
     <link href="https://www.chenqd.top/2020/08/17/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/"/>
     <id>https://www.chenqd.top/2020/08/17/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/</id>
     <published>2020-08-17T11:28:20.956Z</published>
-    <updated>2020-08-17T11:40:28.564Z</updated>
+    <updated>2020-08-19T03:16:37.937Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;如果两个数很大，怎样求最大公约数，最小公倍数？&lt;br&gt;如果是n个数呢？比如1000个数的最小公倍数
     
     </summary>
     
     
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
@@ -84,9 +84,9 @@
   </entry>
   
   <entry>
-    <title>使用谷歌搜索引擎</title>
-    <link href="https://www.chenqd.top/2020/08/17/%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/"/>
-    <id>https://www.chenqd.top/2020/08/17/%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</id>
+    <title>不用梯子也能用谷歌搜索</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E4%B8%8D%E7%94%A8%E6%A2%AF%E5%AD%90%E4%B9%9F%E8%83%BD%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E4%B8%8D%E7%94%A8%E6%A2%AF%E5%AD%90%E4%B9%9F%E8%83%BD%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/</id>
     <published>2020-08-17T06:56:44.588Z</published>
     <updated>2020-08-17T06:59:22.200Z</updated>
     
