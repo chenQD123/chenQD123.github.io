@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chenqd.top/messages/index.html</loc>
+    
+    <lastmod>2020-12-21T05:03:00.909Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.chenqd.top/album/index.html</loc>
     
-    <lastmod>2020-11-30T14:13:36.886Z</lastmod>
+    <lastmod>2020-12-21T04:59:52.414Z</lastmod>
     
   </url>
   
@@ -159,13 +166,6 @@
     <loc>https://www.chenqd.top/music/index.html</loc>
     
     <lastmod>2020-08-01T07:35:00.652Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.chenqd.top/messages/index.html</loc>
-    
-    <lastmod>2020-08-01T07:30:40.013Z</lastmod>
     
   </url>
   
