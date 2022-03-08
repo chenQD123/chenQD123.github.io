@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈全蛋</title>
+  <icon>https://www.chenqd.top/icon.png</icon>
+  <subtitle>记录自己的成长</subtitle>
+  <link href="/source/_posts/atom.xml" rel="self"/>
+  
+  <link href="https://www.chenqd.top/"/>
+  <updated>2020-11-30T13:22:25.299Z</updated>
+  <id>https://www.chenqd.top/</id>
+  
+  <author>
+    <name>chenQD</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>扩展欧几里得</title>
+    <link href="https://www.chenqd.top/2020/11/30/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97/"/>
+    <id>https://www.chenqd.top/2020/11/30/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97/</id>
+    <published>2020-11-30T13:09:47.641Z</published>
+    <updated>2020-11-30T13:22:25.299Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;扩展欧几里得定理&lt;br&gt;扩展欧几里得定理（Extended Euclidean algorithm, EXGCD），常用于求ax+by=gcd(a,b)  的一组可行解。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="扩展欧几里得" scheme="https://www.chenqd.top/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>力扣——二叉搜索树的范围和</title>
+    <link href="https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E8%8C%83%E5%9B%B4%E5%92%8C/"/>
+    <id>https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E8%8C%83%E5%9B%B4%E5%92%8C/</id>
+    <published>2020-11-30T13:09:47.587Z</published>
+    <updated>2020-11-30T13:22:07.351Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目：&quot;&gt;&lt;a href=&quot;#题目：&quot; class=&quot;headerlink&quot; title=&quot;题目：&quot;&gt;&lt;/a&gt;题目：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;给定二叉搜索树的根结点 root，返回 L 和 R（含）之间的所有结点的值的和。&lt;br&gt;    二叉搜索树保证具有唯一的值。&lt;br&gt;    示例 1：&lt;br&gt;    输入：root = [10,5,15,3,7,null,18], L = 7, R = 15&lt;br&gt;    输出：32&lt;br&gt;    示例 2：&lt;br&gt;    输入：root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10&lt;br&gt;    输出：23&lt;br&gt;    提示：&lt;br&gt;    树中的结点数量最多为 10000 个。&lt;br&gt;    最终的答案保证小于 2^31。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="力扣" scheme="https://www.chenqd.top/tags/%E5%8A%9B%E6%89%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>力扣——最长同值路径</title>
+    <link href="https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/"/>
+    <id>https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/</id>
+    <published>2020-11-30T13:09:47.561Z</published>
+    <updated>2020-11-30T13:27:55.138Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;一、题目：&quot;&gt;&lt;a href=&quot;#一、题目：&quot; class=&quot;headerlink&quot; title=&quot;一、题目：&quot;&gt;&lt;/a&gt;一、题目：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。&lt;br&gt;    注意：两个节点之间的路径长度由它们之间的边数表示。
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="力扣" scheme="https://www.chenqd.top/tags/%E5%8A%9B%E6%89%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>力扣——划分为k个相等的子集</title>
+    <link href="https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/"/>
+    <id>https://www.chenqd.top/2020/11/30/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/</id>
+    <published>2020-11-30T13:09:47.521Z</published>
+    <updated>2020-11-30T13:22:01.891Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;一、题目：&quot;&gt;&lt;a href=&quot;#一、题目：&quot; class=&quot;headerlink&quot; title=&quot;一、题目：&quot;&gt;&lt;/a&gt;一、题目：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;  给定一个整数数组  nums 和一个正整数 k，找出是否有可能把这个数组分成 k 个非空子集，其总和都相等。&lt;br&gt;    示例 1：&lt;br&gt;    输入： nums = [4, 3, 2, 3, 5, 2, 1], k = 4&lt;br&gt;    输出： True&lt;br&gt;    说明： 有可能将其分成 4 个子集（5），（1,4），（2,3），（2,3）等于总和。&lt;br&gt;    提示：&lt;br&gt;    1 &amp;lt;= k &amp;lt;= len(nums) &amp;lt;= 16&lt;br&gt;    0 &amp;lt; nums[i] &amp;lt; 10000&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="力扣" scheme="https://www.chenqd.top/tags/%E5%8A%9B%E6%89%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot+shiro+mybatis+Thymeleaf实现权限登录</title>
+    <link href="https://www.chenqd.top/2020/11/30/SpringBoot+shiro+mybatis+Thymeleaf%E5%AE%9E%E7%8E%B0%E6%9D%83%E9%99%90%E7%99%BB%E5%BD%95/"/>
+    <id>https://www.chenqd.top/2020/11/30/SpringBoot+shiro+mybatis+Thymeleaf%E5%AE%9E%E7%8E%B0%E6%9D%83%E9%99%90%E7%99%BB%E5%BD%95/</id>
+    <published>2020-11-30T13:09:47.518Z</published>
+    <updated>2020-11-30T13:21:35.601Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在做一个期末作品，就是使用ssm+thymeleaf+vue+shiro完成一个具有&lt;strong&gt;权限登录，且能实现用户信息增删查改&lt;/strong&gt;的这么一个项目，下面仅仅是实现&lt;strong&gt;权限认证和登录&lt;/strong&gt;。为什么我选shiro，而不选spring Security，是因为我试过，security实在是比较难，封装的太厉害了，哈哈哈哈，所以果断放弃，选择shiro进行。
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://www.chenqd.top/categories/java/"/>
+    
+      <category term="ssm" scheme="https://www.chenqd.top/categories/java/ssm/"/>
+    
+    
+      <category term="spring boot" scheme="https://www.chenqd.top/tags/spring-boot/"/>
+    
+      <category term="shiro" scheme="https://www.chenqd.top/tags/shiro/"/>
+    
+      <category term="thymeleaf" scheme="https://www.chenqd.top/tags/thymeleaf/"/>
+    
+      <category term="ssm" scheme="https://www.chenqd.top/tags/ssm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用SSM+spingboot+vue+shiro实现权限登录和增删查改</title>
+    <link href="https://www.chenqd.top/2020/11/30/%E4%BD%BF%E7%94%A8SSM+spingboot+vue+shiro%E5%AE%9E%E7%8E%B0%E6%9D%83%E9%99%90%E7%99%BB%E5%BD%95%E5%92%8C%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9/"/>
+    <id>https://www.chenqd.top/2020/11/30/%E4%BD%BF%E7%94%A8SSM+spingboot+vue+shiro%E5%AE%9E%E7%8E%B0%E6%9D%83%E9%99%90%E7%99%BB%E5%BD%95%E5%92%8C%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9/</id>
+    <published>2020-11-30T13:09:47.517Z</published>
+    <updated>2020-11-30T13:23:55.539Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前写了一篇博客是用，ssm+thymeleaf+vue+shiro完成一个具有&lt;strong&gt;权限登录，且能增删查改&lt;/strong&gt;的这么一个项目。当时只记录了登录权限的操作，现在补充一下&lt;strong&gt;增删查改&lt;/strong&gt;的具体实现。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://www.chenqd.top/categories/java/"/>
+    
+      <category term="ssm" scheme="https://www.chenqd.top/categories/java/ssm/"/>
+    
+    
+      <category term="spring boot" scheme="https://www.chenqd.top/tags/spring-boot/"/>
+    
+      <category term="shiro" scheme="https://www.chenqd.top/tags/shiro/"/>
+    
+      <category term="thymeleaf" scheme="https://www.chenqd.top/tags/thymeleaf/"/>
+    
+      <category term="ssm" scheme="https://www.chenqd.top/tags/ssm/"/>
+    
+      <category term="vue" scheme="https://www.chenqd.top/tags/vue/"/>
+    
+      <category term="axios" scheme="https://www.chenqd.top/tags/axios/"/>
+    
+      <category term="bootstrap" scheme="https://www.chenqd.top/tags/bootstrap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC笔记</title>
+    <link href="https://www.chenqd.top/2020/11/30/JDBC%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.chenqd.top/2020/11/30/JDBC%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-11-30T13:09:47.391Z</published>
+    <updated>2020-11-30T13:26:03.400Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;1-使用步骤：&quot;&gt;&lt;a href=&quot;#1-使用步骤：&quot; class=&quot;headerlink&quot; title=&quot;1.使用步骤：&quot;&gt;&lt;/a&gt;1.使用步骤：&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;导包&lt;/li&gt;
+&lt;li&gt;加载驱动类class.forName(….)
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://www.chenqd.top/categories/java/"/>
+    
+    
+      <category term="JDBC" scheme="https://www.chenqd.top/tags/JDBC/"/>
+    
+      <category term="java" scheme="https://www.chenqd.top/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tomcat&amp;Servlet</title>
+    <link href="https://www.chenqd.top/2020/11/30/Tomcat&amp;Servlet/"/>
+    <id>https://www.chenqd.top/2020/11/30/Tomcat&amp;Servlet/</id>
+    <published>2020-11-30T13:09:47.389Z</published>
+    <updated>2020-11-30T13:26:33.677Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一.Tomcat:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;web服务软件，中小型的JavaEE服务器，仅仅支持少量的JavaEE规范servlet/jsp。
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://www.chenqd.top/categories/java/"/>
+    
+    
+      <category term="tomcat" scheme="https://www.chenqd.top/tags/tomcat/"/>
+    
+      <category term="servlet" scheme="https://www.chenqd.top/tags/servlet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>力扣——第N个泰波那契数列的值</title>
+    <link href="https://www.chenqd.top/2020/09/27/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E7%AC%ACN%E4%B8%AA%E6%B3%B0%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%9A%84%E5%80%BC/"/>
+    <id>https://www.chenqd.top/2020/09/27/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E7%AC%ACN%E4%B8%AA%E6%B3%B0%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%9A%84%E5%80%BC/</id>
+    <published>2020-09-27T09:36:35.293Z</published>
+    <updated>2020-11-30T13:18:22.049Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;力扣1137——第N个泰波那契数列的值&quot;&gt;&lt;a href=&quot;#力扣1137——第N个泰波那契数列的值&quot; class=&quot;headerlink&quot; title=&quot;力扣1137——第N个泰波那契数列的值&quot;&gt;&lt;/a&gt;力扣1137——第N个泰波那契数列的值&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="递归" scheme="https://www.chenqd.top/tags/%E9%80%92%E5%BD%92/"/>
+    
+      <category term="力扣" scheme="https://www.chenqd.top/tags/%E5%8A%9B%E6%89%A3/"/>
+    
+      <category term="动态规划" scheme="https://www.chenqd.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    
+      <category term="时间复杂度" scheme="https://www.chenqd.top/tags/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>求n个最小公倍数</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/</id>
+    <published>2020-08-17T11:28:20.956Z</published>
+    <updated>2020-08-19T03:16:37.937Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;如果两个数很大，怎样求最大公约数，最小公倍数？&lt;br&gt;如果是n个数呢？比如1000个数的最小公倍数
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>进制转换</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</id>
+    <published>2020-08-17T06:56:51.359Z</published>
+    <updated>2020-08-17T13:05:14.938Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目：&quot;&gt;&lt;a href=&quot;#题目：&quot; class=&quot;headerlink&quot; title=&quot;题目：&quot;&gt;&lt;/a&gt;题目：&lt;/h2&gt;&lt;p&gt;用天平称重时，我们希望用尽可能少的砝码组合称出尽可能多的重量。&lt;br&gt;        如果只有5个砝码，重量分别是1，3，9，27，81&lt;br&gt;        则它们可以组合称出1到121之间任意整数重量（砝码允许放在左右两个盘中）。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="进制转换" scheme="https://www.chenqd.top/tags/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>指针到底是个什么鬼,怎么用</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E6%8C%87%E9%92%88%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E9%AC%BC,%E6%80%8E%E4%B9%88%E7%94%A8/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E6%8C%87%E9%92%88%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E9%AC%BC,%E6%80%8E%E4%B9%88%E7%94%A8/</id>
+    <published>2020-08-17T06:56:48.022Z</published>
+    <updated>2020-08-17T07:01:57.849Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;学数据结构时，创建链表，他定义了个二级指针，很懵逼，所以就有了这篇博客。指针的 * 有啥用?
+    
+    </summary>
+    
+    
+      <category term="C语言" scheme="https://www.chenqd.top/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="指针" scheme="https://www.chenqd.top/tags/%E6%8C%87%E9%92%88/"/>
+    
+      <category term="C语言" scheme="https://www.chenqd.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不用梯子也能用谷歌搜索</title>
+    <link href="https://www.chenqd.top/2020/08/17/%E4%B8%8D%E7%94%A8%E6%A2%AF%E5%AD%90%E4%B9%9F%E8%83%BD%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/"/>
+    <id>https://www.chenqd.top/2020/08/17/%E4%B8%8D%E7%94%A8%E6%A2%AF%E5%AD%90%E4%B9%9F%E8%83%BD%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/</id>
+    <published>2020-08-17T06:56:44.588Z</published>
+    <updated>2020-08-17T06:59:22.200Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;谷歌——程序员必备工具。但是谷歌引擎被墙了，内地是用不了的。
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/categories/%E5%B7%A5%E5%85%B7/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+      <category term="谷歌" scheme="https://www.chenqd.top/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>组合算法</title>
+    <link href="https://www.chenqd.top/2020/08/13/%E7%BB%84%E5%90%88%E7%AE%97%E6%B3%95/"/>
+    <id>https://www.chenqd.top/2020/08/13/%E7%BB%84%E5%90%88%E7%AE%97%E6%B3%95/</id>
+    <published>2020-08-13T06:35:28.241Z</published>
+    <updated>2020-08-13T06:40:42.498Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在数学中，我们学习了，排列组合，排列是有序的，组合是无顺序的。在做算法题时，我们也会遇到这种。&lt;br&gt;so，今天来理下，怎么写组合。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="递归" scheme="https://www.chenqd.top/tags/%E9%80%92%E5%BD%92/"/>
+    
+      <category term="组合" scheme="https://www.chenqd.top/tags/%E7%BB%84%E5%90%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL基础</title>
+    <link href="https://www.chenqd.top/2020/08/10/MySQL%E5%9F%BA%E7%A1%80/"/>
+    <id>https://www.chenqd.top/2020/08/10/MySQL%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-08-10T13:51:05.220Z</published>
+    <updated>2020-08-10T13:53:20.156Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;MySQL&quot;&gt;&lt;a href=&quot;#MySQL&quot; class=&quot;headerlink&quot; title=&quot;MySQL&quot;&gt;&lt;/a&gt;MySQL&lt;/h1&gt;&lt;h4 id=&quot;SQL语法：&quot;&gt;&lt;a href=&quot;#SQL语法：&quot; class=&quot;headerlink&quot; title=&quot;SQL语法：&quot;&gt;&lt;/a&gt;SQL语法：&lt;/h4&gt;&lt;p&gt;通用语法：
+    
+    </summary>
+    
+    
+      <category term="SQL" scheme="https://www.chenqd.top/categories/SQL/"/>
+    
+    
+      <category term="MySql" scheme="https://www.chenqd.top/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>罗马数字转十进制的三种方法</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
+    <published>2020-08-10T13:51:05.176Z</published>
+    <updated>2020-08-13T06:37:01.391Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目要求&quot;&gt;&lt;a href=&quot;#题目要求&quot; class=&quot;headerlink&quot; title=&quot;题目要求&quot;&gt;&lt;/a&gt;题目要求&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;古罗马帝国开创了辉煌的人类文明，但他们的数字表示法的确有些繁琐，尤其在表示大数的时候，现在看起来简直不能忍受，所以在现代很少使用了。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Luhn算法实现信用卡号验证</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E4%BD%BF%E7%94%A8Luhn%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%B7%E9%AA%8C%E8%AF%81/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E4%BD%BF%E7%94%A8Luhn%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%B7%E9%AA%8C%E8%AF%81/</id>
+    <published>2020-08-10T13:51:05.131Z</published>
+    <updated>2020-08-13T06:37:31.358Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题描述：&quot;&gt;&lt;a href=&quot;#问题描述：&quot; class=&quot;headerlink&quot; title=&quot;问题描述：&quot;&gt;&lt;/a&gt;问题描述：&lt;/h2&gt;&lt;p&gt;2：信用卡号的验证 【信用卡号的验证】 当你输入信用卡号码的时候，有没有担心输错了而造成损失呢？其实可以不必这么 担心，因为并不是一个随便的信用卡号码都是合法的，它必须通过 Luhn 算法来验 证通过。
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java验证输入是否为三阶幻方</title>
+    <link href="https://www.chenqd.top/2020/08/10/java%E9%AA%8C%E8%AF%81%E8%BE%93%E5%85%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%89%E9%98%B6%E5%B9%BB%E6%96%B9/"/>
+    <id>https://www.chenqd.top/2020/08/10/java%E9%AA%8C%E8%AF%81%E8%BE%93%E5%85%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%89%E9%98%B6%E5%B9%BB%E6%96%B9/</id>
+    <published>2020-08-10T13:51:05.095Z</published>
+    <updated>2020-08-10T13:53:58.164Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题描述：&quot;&gt;&lt;a href=&quot;#问题描述：&quot; class=&quot;headerlink&quot; title=&quot;问题描述：&quot;&gt;&lt;/a&gt;问题描述：&lt;/h2&gt;&lt;p&gt;小明最近在教邻居家的小朋友小学奥数，而最近正好讲述到了三阶幻方这个部分
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="枚举法" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>看不懂辗转相除法求最小公约数？以身相许那种哦！</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/</id>
+    <published>2020-08-10T13:51:05.077Z</published>
+    <updated>2020-08-13T06:36:37.564Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;给你打个比喻吧：你英雄救美了，美女想要报答你，你想要1000块感谢费，但是美女却想要以身相许😁，懂了吧，同样都是报答，只是用了不一样的方式，辗转相除法也是这样，你两个数的最大公约数不容易求，我就用另外两个简单的数来解决。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全排列算法及解决数字搭积木问题</title>
+    <link href="https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/</id>
+    <published>2020-08-10T13:51:04.906Z</published>
+    <updated>2020-08-13T06:37:12.509Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如果你是做这道题不会，那么你可以看这道题的解题思路，如果你是不太理解全排列算法，那么你可以通过这个题来理解。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
+    
+    
+      <category term="递归" scheme="https://www.chenqd.top/tags/%E9%80%92%E5%BD%92/"/>
+    
+      <category term="全排列" scheme="https://www.chenqd.top/tags/%E5%85%A8%E6%8E%92%E5%88%97/"/>
+    
+  </entry>
+  
+</feed>
