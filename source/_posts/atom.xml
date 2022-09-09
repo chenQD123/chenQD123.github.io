@@ -6,7 +6,7 @@
   <link href="/source/_posts/atom.xml" rel="self"/>
   
   <link href="https://www.chenqd.top/"/>
-  <updated>2020-11-30T13:22:25.299Z</updated>
+  <updated>2022-09-09T07:38:34.372Z</updated>
   <id>https://www.chenqd.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>成都信息工程大学上岸软件工程专硕经验分享</title>
+    <link href="https://www.chenqd.top/2022/09/09/%E6%88%90%E9%83%BD%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%B2%B8%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E7%A1%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    <id>https://www.chenqd.top/2022/09/09/%E6%88%90%E9%83%BD%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%B2%B8%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E7%A1%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</id>
+    <published>2022-09-09T07:36:46.346Z</published>
+    <updated>2022-09-09T07:38:34.372Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先写这篇文章的目的是为了纪念过去备考的一年，其中经验分享的内容包括以下几个方面：1择校、2备考、3心态、4一些感悟。
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="https://www.chenqd.top/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+      <category term="考研经验" scheme="https://www.chenqd.top/tags/%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="成都信息工程考研" scheme="https://www.chenqd.top/tags/%E6%88%90%E9%83%BD%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>扩展欧几里得</title>
@@ -483,31 +506,6 @@
     
     
       <category term="枚举" scheme="https://www.chenqd.top/tags/%E6%9E%9A%E4%B8%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全排列算法及解决数字搭积木问题</title>
-    <link href="https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/"/>
-    <id>https://www.chenqd.top/2020/08/10/%E5%85%A8%E6%8E%92%E5%88%97%E7%AE%97%E6%B3%95%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%97%E6%90%AD%E7%A7%AF%E6%9C%A8%E9%97%AE%E9%A2%98/</id>
-    <published>2020-08-10T13:51:04.906Z</published>
-    <updated>2020-08-13T06:37:12.509Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;如果你是做这道题不会，那么你可以看这道题的解题思路，如果你是不太理解全排列算法，那么你可以通过这个题来理解。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="递归" scheme="https://www.chenqd.top/categories/%E7%AE%97%E6%B3%95/%E9%80%92%E5%BD%92/"/>
-    
-    
-      <category term="递归" scheme="https://www.chenqd.top/tags/%E9%80%92%E5%BD%92/"/>
-    
-      <category term="全排列" scheme="https://www.chenqd.top/tags/%E5%85%A8%E6%8E%92%E5%88%97/"/>
     
   </entry>
   
