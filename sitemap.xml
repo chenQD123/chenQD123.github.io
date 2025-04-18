@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chensy.site/music/index.html</loc>
+    
+    <lastmod>2025-04-18T06:21:36.483Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.chensy.site/media/index.html</loc>
+    
+    <lastmod>2025-04-18T06:11:07.207Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.chensy.site/about/index.html</loc>
     
     <lastmod>2025-04-18T03:41:36.640Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://www.chensy.site/album/index.html</loc>
     
     <lastmod>2025-04-18T03:29:49.774Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.chensy.site/media/index.html</loc>
-    
-    <lastmod>2022-03-14T12:08:38.000Z</lastmod>
     
   </url>
   
@@ -166,13 +173,6 @@
     <loc>https://www.chensy.site/2024/01/06/MySQL%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2020-08-10T13:53:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.chensy.site/music/index.html</loc>
-    
-    <lastmod>2020-08-01T07:35:02.000Z</lastmod>
     
   </url>
   
