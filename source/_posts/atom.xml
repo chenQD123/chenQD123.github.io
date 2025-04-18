@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>陈全蛋</title>
+  <title>CSY&#39;s Blog</title>
   <icon>https://www.chensy.site/icon.png</icon>
   <subtitle>记录自己的成长</subtitle>
   <link href="/source/_posts/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.chensy.site/</id>
   
   <author>
-    <name>chenQD</name>
+    <name>CSY</name>
     
   </author>
   
@@ -34,31 +34,6 @@
     
     
       <category term="进制转换" scheme="https://www.chensy.site/tags/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>罗马数字转十进制的三种方法</title>
-    <link href="https://www.chensy.site/2024/01/06/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
-    <id>https://www.chensy.site/2024/01/06/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
-    <published>2024-01-06T13:24:41.687Z</published>
-    <updated>2020-08-13T06:37:02.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;题目要求&quot;&gt;&lt;a href=&quot;#题目要求&quot; class=&quot;headerlink&quot; title=&quot;题目要求&quot;&gt;&lt;/a&gt;题目要求&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;古罗马帝国开创了辉煌的人类文明，但他们的数字表示法的确有些繁琐，尤其在表示大数的时候，现在看起来简直不能忍受，所以在现代很少使用了。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="https://www.chensy.site/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="枚举" scheme="https://www.chensy.site/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
-    
-    
-      <category term="枚举" scheme="https://www.chensy.site/tags/%E6%9E%9A%E4%B8%BE/"/>
     
   </entry>
   
@@ -88,6 +63,31 @@
   </entry>
   
   <entry>
+    <title>罗马数字转十进制的三种方法</title>
+    <link href="https://www.chensy.site/2024/01/06/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
+    <id>https://www.chensy.site/2024/01/06/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
+    <published>2024-01-06T13:24:41.687Z</published>
+    <updated>2020-08-13T06:37:02.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目要求&quot;&gt;&lt;a href=&quot;#题目要求&quot; class=&quot;headerlink&quot; title=&quot;题目要求&quot;&gt;&lt;/a&gt;题目要求&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;古罗马帝国开创了辉煌的人类文明，但他们的数字表示法的确有些繁琐，尤其在表示大数的时候，现在看起来简直不能忍受，所以在现代很少使用了。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://www.chensy.site/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="枚举" scheme="https://www.chensy.site/categories/%E7%AE%97%E6%B3%95/%E6%9E%9A%E4%B8%BE/"/>
+    
+    
+      <category term="枚举" scheme="https://www.chensy.site/tags/%E6%9E%9A%E4%B8%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>看不懂辗转相除法求最小公约数？以身相许那种哦！</title>
     <link href="https://www.chensy.site/2024/01/06/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/"/>
     <id>https://www.chensy.site/2024/01/06/%E7%9C%8B%E4%B8%8D%E6%87%82%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%B0%8F%E5%85%AC%E7%BA%A6%E6%95%B0%EF%BC%9F%E4%BB%A5%E8%BA%AB%E7%9B%B8%E8%AE%B8%E9%82%A3%E7%A7%8D%E5%93%A6%EF%BC%81/</id>
@@ -111,27 +111,6 @@
   </entry>
   
   <entry>
-    <title>模拟B,S服务器</title>
-    <link href="https://www.chensy.site/2024/01/06/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    <id>https://www.chensy.site/2024/01/06/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
-    <published>2024-01-06T13:24:41.655Z</published>
-    <updated>2020-07-29T09:32:02.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近学到了网络编程，有个练习：&lt;br&gt;&lt;strong&gt;模拟B\S服务器 模拟网站服务器，使用浏览器访问自己编写的服务端程序，查看网页效果。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;踩了两个坑&lt;/strong&gt;，就是：&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Java" scheme="https://www.chensy.site/categories/Java/"/>
-    
-    
-      <category term="TCP" scheme="https://www.chensy.site/tags/TCP/"/>
-    
-  </entry>
-  
-  <entry>
     <title>求n个最小公倍数</title>
     <link href="https://www.chensy.site/2024/01/06/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/"/>
     <id>https://www.chensy.site/2024/01/06/%E6%B1%82n%E4%B8%AA%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/</id>
@@ -151,6 +130,27 @@
     
     
       <category term="算法" scheme="https://www.chensy.site/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模拟B,S服务器</title>
+    <link href="https://www.chensy.site/2024/01/06/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://www.chensy.site/2024/01/06/%E6%A8%A1%E6%8B%9FB,S%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <published>2024-01-06T13:24:41.655Z</published>
+    <updated>2020-07-29T09:32:02.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近学到了网络编程，有个练习：&lt;br&gt;&lt;strong&gt;模拟B\S服务器 模拟网站服务器，使用浏览器访问自己编写的服务端程序，查看网页效果。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;踩了两个坑&lt;/strong&gt;，就是：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://www.chensy.site/categories/Java/"/>
+    
+    
+      <category term="TCP" scheme="https://www.chensy.site/tags/TCP/"/>
     
   </entry>
   
@@ -245,16 +245,17 @@
   </entry>
   
   <entry>
-    <title>力扣——最长同值路径</title>
-    <link href="https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/"/>
-    <id>https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/</id>
+    <title>力扣——划分为k个相等的子集</title>
+    <link href="https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/"/>
+    <id>https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/</id>
     <published>2024-01-06T13:24:41.592Z</published>
-    <updated>2020-11-30T13:27:56.000Z</updated>
+    <updated>2020-11-30T13:22:02.000Z</updated>
     
     <summary type="html">
     
       &lt;h2 id=&quot;一、题目：&quot;&gt;&lt;a href=&quot;#一、题目：&quot; class=&quot;headerlink&quot; title=&quot;一、题目：&quot;&gt;&lt;/a&gt;一、题目：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;  给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。&lt;br&gt;    注意：两个节点之间的路径长度由它们之间的边数表示。
+&lt;p&gt;  给定一个整数数组  nums 和一个正整数 k，找出是否有可能把这个数组分成 k 个非空子集，其总和都相等。&lt;br&gt;    示例 1：&lt;br&gt;    输入： nums = [4, 3, 2, 3, 5, 2, 1], k = 4&lt;br&gt;    输出： True&lt;br&gt;    说明： 有可能将其分成 4 个子集（5），（1,4），（2,3），（2,3）等于总和。&lt;br&gt;    提示：&lt;br&gt;    1 &amp;lt;= k &amp;lt;= len(nums) &amp;lt;= 16&lt;br&gt;    0 &amp;lt; nums[i] &amp;lt; 10000&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -271,17 +272,16 @@
   </entry>
   
   <entry>
-    <title>力扣——划分为k个相等的子集</title>
-    <link href="https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/"/>
-    <id>https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86/</id>
+    <title>力扣——最长同值路径</title>
+    <link href="https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/"/>
+    <id>https://www.chensy.site/2024/01/06/%E5%8A%9B%E6%89%A3%E2%80%94%E2%80%94%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/</id>
     <published>2024-01-06T13:24:41.592Z</published>
-    <updated>2020-11-30T13:22:02.000Z</updated>
+    <updated>2020-11-30T13:27:56.000Z</updated>
     
     <summary type="html">
     
       &lt;h2 id=&quot;一、题目：&quot;&gt;&lt;a href=&quot;#一、题目：&quot; class=&quot;headerlink&quot; title=&quot;一、题目：&quot;&gt;&lt;/a&gt;一、题目：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;  给定一个整数数组  nums 和一个正整数 k，找出是否有可能把这个数组分成 k 个非空子集，其总和都相等。&lt;br&gt;    示例 1：&lt;br&gt;    输入： nums = [4, 3, 2, 3, 5, 2, 1], k = 4&lt;br&gt;    输出： True&lt;br&gt;    说明： 有可能将其分成 4 个子集（5），（1,4），（2,3），（2,3）等于总和。&lt;br&gt;    提示：&lt;br&gt;    1 &amp;lt;= k &amp;lt;= len(nums) &amp;lt;= 16&lt;br&gt;    0 &amp;lt; nums[i] &amp;lt; 10000&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;  给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。&lt;br&gt;    注意：两个节点之间的路径长度由它们之间的边数表示。
     
     </summary>
     
